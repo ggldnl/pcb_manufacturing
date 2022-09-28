@@ -22,7 +22,7 @@ This is a simple guide (and a reference for me in the future) to make simple PCB
 
 # Convert the PCB to a printable file
 
-For this guide I will refer to [easyEDA] (https://easyeda.com/).
+For this guide I will refer to [easyEDA](https://easyeda.com/).
 
 Once you have the PCB that you want to synthesize, follow this [workflow](https://app.tango.us/app/workflow/48a8c24c-b20f-4d17-b053-4a210ef0bb6e?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
 
