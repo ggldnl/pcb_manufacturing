@@ -24,11 +24,6 @@ This is a simple guide (and a reference for me in the future) to make simple PCB
 
 For this guide I will refer to [easyEDA](https://easyeda.com/).
 
-Once you have the PCB that you want to synthesize, follow this [workflow](https://app.tango.us/app/workflow/48a8c24c-b20f-4d17-b053-4a210ef0bb6e?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
-
-
-__Source:__ [Tango](https://app.tango.us/app/workflow/48a8c24c-b20f-4d17-b053-4a210ef0bb6e?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
-
 forgive me if the screens are in Italian
 
 ### 1. File > Export > SVG...
@@ -49,12 +44,11 @@ The export menu will show up
 ### 4. Click on "Export"
 ![Step 4 screenshot](https://images.tango.us/public/screenshot_d7f4df41-a1a6-4ee9-a3e8-b1214f5b4e57.png?crop=focalpoint&fit=crop&fp-x=0.5531&fp-y=0.7885&fp-z=3.0094&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A941)
 
+__Source:__ [Tango](https://app.tango.us/app/workflow/48a8c24c-b20f-4d17-b053-4a210ef0bb6e?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
+
 ## Edit the generated SVG
 
 I generally use [pixlr](https://pixlr.com/us/e/#editor) but any editor (both online or offline) will suffice. Don't mind the PCB I used, this is just for reference.
-
-__Source:__ [Tango](https://app.tango.us/app/workflow/dfbabeed-db44-41a0-be2a-5b671c5a0cbb?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
-
 
 ### 1. Use the magic wand selection tool
 ![Step 1 screenshot](https://images.tango.us/public/screenshot_e0662550-d70b-409c-9612-ea39befc112d.png?crop=focalpoint&fit=crop&fp-x=0.0276&fp-y=0.1477&fp-z=3.0923&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A941)
@@ -92,6 +86,9 @@ This will create a new image the size of the selected item
 ### 9. File > Export as SVG...
 
 Now you have an SVG cut to proper size without padding.
+
+__Source:__ [Tango](https://app.tango.us/app/workflow/dfbabeed-db44-41a0-be2a-5b671c5a0cbb?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
+
 
 ## Convert to SVG to STL
 
